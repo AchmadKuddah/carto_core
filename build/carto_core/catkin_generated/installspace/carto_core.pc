@@ -1,0 +1,8 @@
+prefix=/home/hariff/carto_imu_v2/install
+
+Name: carto_core
+Description: Description of carto_core
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib -lcarto_core
+Requires: roscpp
